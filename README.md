@@ -1,1 +1,1 @@
-# pd2-sudoku2
+# pd2-sudoku
